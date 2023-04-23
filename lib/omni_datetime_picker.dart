@@ -9,6 +9,7 @@ library omni_datetime_picker;
 import 'package:flutter/material.dart';
 import 'package:omni_datetime_picker/src/omni_datetime_picker.dart';
 import 'package:omni_datetime_picker/src/omni_datetime_range_picker.dart';
+export 'package:omni_datetime_picker/src/variants/omni_datetime_range_picker_variants/omni_dtp_range_normal.dart';
 
 /// Show dialog of the [OmniDateTimePicker]
 ///
